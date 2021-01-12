@@ -1,0 +1,28 @@
+lastAccountName: swordman111
+timestamps:
+  login: 1602691309439
+  logout: 1602700566136
+  lastteleport: 1602700182852
+ipAddress: 79.115.135.52
+logoutlocation:
+  world: world
+  x: -600.7114160487831
+  y: 66.875
+  z: -1092.334688443872
+  yaw: -36.299133
+  pitch: 73.19991
+lastlocation:
+  world: world_nether
+  x: -2897.303100441488
+  y: 12.0
+  z: -1816.6684525930357
+  yaw: -259.8087
+  pitch: 10.199975
+homes:
+  home:
+    world: world
+    x: -600.7433882354287
+    y: 65.0
+    z: -1094.8512496052028
+    yaw: -2.0990906
+    pitch: 21.150045

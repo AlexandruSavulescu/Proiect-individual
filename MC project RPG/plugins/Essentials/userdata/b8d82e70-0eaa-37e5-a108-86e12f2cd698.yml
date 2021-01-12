@@ -1,0 +1,29 @@
+lastAccountName: SavBoy
+timestamps:
+  login: 1610461719394
+  logout: 1610462056171
+  lastteleport: 1610461938372
+ipAddress: 127.0.0.1
+logoutlocation:
+  world: world
+  x: 4595.475418800732
+  y: 29.0
+  z: -6068.838064870977
+  yaw: -359.40216
+  pitch: 9.899321
+lastlocation:
+  world: world
+  x: 4635.115712439725
+  y: 63.0
+  z: -6047.279825691245
+  yaw: -76.96209
+  pitch: -5.6991453
+homes:
+  home:
+    world: world
+    x: 4613.4585009585235
+    y: 63.0
+    z: -6072.206520718243
+    yaw: 20.687136
+    pitch: -1.949166
+money: '0'

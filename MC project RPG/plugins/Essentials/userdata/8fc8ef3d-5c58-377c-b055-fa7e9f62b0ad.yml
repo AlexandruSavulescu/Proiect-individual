@@ -1,0 +1,30 @@
+lastAccountName: DenisPutifer
+timestamps:
+  login: 1603540411433
+  lastteleport: 1603540424575
+  logout: 1603540929593
+ipAddress: 25.55.187.147
+lastlocation:
+  world: world
+  x: -2999.981371944061
+  y: 73.5
+  z: 798.4646474523698
+  yaw: 50.747078
+  pitch: -13.450299
+homes:
+  home:
+    world: world
+    x: -3001.9090709976886
+    y: 110.0
+    z: 786.5202197980582
+    yaw: 92.39697
+    pitch: 4.650145
+logoutlocation:
+  world: world
+  x: -2973.823727525046
+  y: 71.0
+  z: 792.6643546358391
+  yaw: 182.34833
+  pitch: 17.999695
+money: '0.0'
+godmode: false

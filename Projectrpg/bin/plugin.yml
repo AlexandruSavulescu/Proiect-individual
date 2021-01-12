@@ -1,0 +1,5 @@
+name: Projectrpg
+author: savboy
+version: 1.0
+main: projectrpg.savboy.Mainclass
+description: Plugin to add RPG elements to Minecraft

@@ -1,0 +1,29 @@
+lastAccountName: Balerinul
+timestamps:
+  login: 1605640837878
+  lastteleport: 1602757848134
+  logout: 1605640955815
+ipAddress: 100.122.174.32
+homes:
+  home:
+    world: world
+    x: -80.35766704794511
+    y: 10.0
+    z: 257.00314249947456
+    yaw: -10.264648
+    pitch: 11.84789
+lastlocation:
+  world: world
+  x: 4742.912338226978
+  y: 46.0
+  z: -5793.649508017671
+  yaw: -109.57622
+  pitch: -51.15011
+logoutlocation:
+  world: world
+  x: 4549.304245731597
+  y: 63.0
+  z: -6086.863081692362
+  yaw: -86.85507
+  pitch: 23.849749
+money: '104540.0'
